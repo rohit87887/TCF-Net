@@ -5,7 +5,7 @@ Tamil–English "Tanglish", Hindi and Hindi–English "Hinglish"). It fuses thre
 deception stylometry and a simulated propagation signal), answers **"Not Sure"** when a claim cannot be verified, and
 detects **hate speech** in the same pass.
 
-SWE1017 Natural Language Processing (EPJ), Slot A2 · Fall 2026–27 · Jayanithish B, Rohit S ·
+SWE1017 Natural Language Processing (EPJ), Slot A2 · Fall 2026–27 · Rohit S, Jayanithish B ·
 Guide: Manjula V
 
 ---
