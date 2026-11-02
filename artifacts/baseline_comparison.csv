@@ -1,0 +1,9 @@
+model,accuracy,macro_f1,roc_auc
+TF-IDF (word) + Naive Bayes,0.9229,0.9225,0.9885
+TF-IDF (word) + Logistic Regression,0.9229,0.9225,0.9878
+TF-IDF (word+char) + Linear SVM,0.9169,0.9167,
+Stylometric (22-D) + Logistic Regression,0.9159,0.9159,0.9872
+google/muril-base-cased embeddings + Logistic Regression,0.9159,0.9159,0.9876
+TCF-Net (Semantic only),0.9229,0.9225,0.9892
+TCF-Net (Semantic + Stylometric),0.9229,0.9225,0.9892
+"TCF-Net (Full Tri-Modal, proposed)",0.9229,0.9225,0.9886

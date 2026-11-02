@@ -1,0 +1,23 @@
+{
+  "total_samples": 5000,
+  "language_distribution": {
+    "English": 1754,
+    "Tamil-English (Tanglish)": 1035,
+    "Tamil (தமிழ்)": 949,
+    "Hinglish": 746,
+    "Hindi (हिन्दी)": 516
+  },
+  "veracity_distribution": {
+    "Fake": 2530,
+    "Real": 2470
+  },
+  "hate_speech_distribution": {
+    "Non-Hateful": 4403,
+    "Hateful": 597
+  },
+  "ambiguity_breakdown": {
+    "Sensational Deception": 2158,
+    "Clear Fact": 2054,
+    "Borderline / Needs Fact-Check": 788
+  }
+}

@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.claude/
+artifacts/emb_cache_*.npy
+artifacts/train_log.txt

@@ -1,0 +1,59 @@
+{
+  "veracity": {
+    "accuracy": 0.9229229229229229,
+    "macro_f1": 0.9224742371941848,
+    "weighted_f1": 0.9224683334345961,
+    "precision_fake": 1.0,
+    "recall_fake": 0.846,
+    "f1_fake": 0.9165763813651138,
+    "roc_auc": 0.98862124248497,
+    "pr_auc": 0.9889964853375286,
+    "confusion_matrix": [
+      [
+        499,
+        0
+      ],
+      [
+        77,
+        423
+      ]
+    ],
+    "mean_gate_semantic": 0.3935585618019104,
+    "mean_gate_stylometric": 0.35164675116539,
+    "mean_gate_propagation": 0.254794716835022
+  },
+  "selective_abstention": {
+    "error_100cov": 0.07707707707707707,
+    "acc_100cov": 0.9229229229229229,
+    "error_85cov": 0.0,
+    "acc_85cov": 1.0,
+    "error_70cov": 0.0,
+    "acc_70cov": 1.0,
+    "error_50cov": 0.0,
+    "acc_50cov": 1.0,
+    "aurc": 0.006177257811917008,
+    "tau_val_calibrated": 0.3750927150249481,
+    "coverage_at_tau": 0.8468468468468469,
+    "acc_at_tau": 1.0
+  },
+  "hate_speech": {
+    "accuracy": 0.964964964964965,
+    "macro_f1": 0.9014506887036813,
+    "weighted_f1": 0.9623515346449869,
+    "precision_fake": 0.9878048780487805,
+    "recall_fake": 0.7043478260869566,
+    "f1_fake": 0.8223350253807107,
+    "roc_auc": 0.9812020460358056,
+    "pr_auc": 0.9038511458991114,
+    "confusion_matrix": [
+      [
+        883,
+        1
+      ],
+      [
+        34,
+        81
+      ]
+    ]
+  }
+}

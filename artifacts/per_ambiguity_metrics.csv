@@ -1,0 +1,4 @@
+﻿ambiguity,samples,accuracy,coverage,selective_accuracy,hate_accuracy
+Borderline / Needs Fact-Check,153,0.4967,0.0,,1.0
+Clear Fact,423,1.0,1.0,1.0,1.0
+Sensational Deception,423,1.0,1.0,1.0,0.9173

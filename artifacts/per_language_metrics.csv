@@ -1,0 +1,6 @@
+﻿language,samples,accuracy,coverage,selective_accuracy,hate_accuracy
+English,350,0.9171,0.8543,1.0,0.9
+Hindi (हिन्दी),104,1.0,1.0,1.0,1.0
+Hinglish,149,0.9262,0.8121,1.0,1.0
+Tamil (தமிழ்),190,0.9105,0.8263,1.0,1.0
+Tamil-English (Tanglish),206,0.9029,0.801,1.0,1.0
